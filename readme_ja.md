@@ -13,7 +13,7 @@ Readme_ja.md ... 今開いているこのファイル自身
 
 ## Demo
 
-
+![Demo](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Running.gif)  
 
 ## Requirement
 

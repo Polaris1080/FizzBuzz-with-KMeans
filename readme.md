@@ -13,7 +13,7 @@ Readme_ja.md ... Itself writeen Japanese
 
 ## Demo
 
-
+![Demo](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Running.gif)  
 
 ## Requirement
 
