@@ -5,15 +5,15 @@ KMeansを使ってFizzBuzzを行う、ただそれだけ。
 
 ## Description
 
-FizzBuzz + with + KMeans ... プログラム
-FizzBuzz + with + KMeans_Commentary.py ... 上記の解説版
-Running.gif ... 実際に動作している様子を録画したサンプル
-Readme.md ... 今開いているこのファイルの英訳版
-Readme_ja.md ... 今開いているこのファイル自身
+FizzBuzz + with + KMeans ... プログラム  
+FizzBuzz + with + KMeans_Commentary.py ... 上記の解説版  
+Running.gif ... 実際に動作している様子を録画したサンプル  
+Readme.md ... 今開いているこのファイルの英訳版  
+Readme_ja.md ... 今開いているこのファイル自身  
 
 ## Demo
 
-![Demo](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Running.gif)  
+![Demo](https://github.com/Polaris1080/FizzBuzz-with-KMeans/blob/master/Running.gif)  
 
 ## Requirement
 

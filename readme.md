@@ -5,15 +5,15 @@ Doing FizzBuzz with KMeans, that's it.
 
 ## Description
 
-FizzBuzz + with + KMeans ... Program
-FizzBuzz + with + KMeans_Commentary.py ... Commentary
-Running.gif ... Sample that recorded how it actually operates
-Readme.md ... Itself!
-Readme_ja.md ... Itself writeen Japanese
+FizzBuzz + with + KMeans ... Program  
+FizzBuzz + with + KMeans_Commentary.py ... Commentary  
+Running.gif ... Sample that recorded how it actually operates  
+Readme.md ... Itself!  
+Readme_ja.md ... Itself writeen Japanese  
 
 ## Demo
 
-![Demo](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Running.gif)  
+![Demo](https://github.com/Polaris1080/FizzBuzz-with-KMeans/blob/master/Running.gif)  
 
 ## Requirement
 
